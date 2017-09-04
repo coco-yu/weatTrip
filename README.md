@@ -65,4 +65,4 @@ first program in tf , thanks hy
         return url;
       }
       
-2. 
+2. $.inArray的使用
