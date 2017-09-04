@@ -66,3 +66,5 @@ first program in tf , thanks hy
       }
       
 2. $.inArray的使用
+
+3. animate();
