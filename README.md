@@ -68,3 +68,7 @@ first program in tf , thanks hy
 2. $.inArray的使用
 
 3. animate();
+
+4. 修改input readonly默认的样式  
+   input： read-only {
+   }
